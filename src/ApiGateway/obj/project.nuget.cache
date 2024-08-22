@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ovDM+GqaFJefgWooulv05qtRFrzGQsbwcSiBlY/sO2P/K6ydDeRIITcCGFWeZhCUG4VdOjx8m7I1GjUKfx2oHg==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\System Design\\APIGateway\\src\\ApiGateway\\ApiGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\system.io.hashing\\7.0.0\\system.io.hashing.7.0.0.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\yarp.reverseproxy\\2.1.0\\yarp.reverseproxy.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
