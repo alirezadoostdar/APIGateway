@@ -24,3 +24,7 @@ D:\OneDrive\System Design\APIGateway\src\ApiGateway\obj\Debug\net8.0\refint\ApiG
 D:\OneDrive\System Design\APIGateway\src\ApiGateway\obj\Debug\net8.0\ApiGateway.pdb
 D:\OneDrive\System Design\APIGateway\src\ApiGateway\obj\Debug\net8.0\ApiGateway.genruntimeconfig.cache
 D:\OneDrive\System Design\APIGateway\src\ApiGateway\obj\Debug\net8.0\ref\ApiGateway.dll
+D:\OneDrive\System Design\APIGateway\src\ApiGateway\bin\Debug\net8.0\System.IO.Hashing.dll
+D:\OneDrive\System Design\APIGateway\src\ApiGateway\bin\Debug\net8.0\Yarp.ReverseProxy.dll
+D:\OneDrive\System Design\APIGateway\src\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.AssemblyReference.cache
+D:\OneDrive\System Design\APIGateway\src\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.CopyComplete
